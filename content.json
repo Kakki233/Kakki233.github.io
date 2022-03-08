@@ -1,1 +1,1 @@
-{"pages":[],"posts":[{"title":"Hello World","text":"Welcome！123456#include&lt;ioscream&gt;using namespace std;int main(){ cout &lt;&lt; &quot;Hello world!&quot; &lt;&lt; endl; return 0;}","link":"/2022/03/08/hello-world/"}],"tags":[],"categories":[]}
+{"pages":[],"posts":[{"title":"Hello World","text":"Welcome！123456#include&lt;iostream&gt;using namespace std;int main(){ cout &lt;&lt; &quot;Hello world!&quot; &lt;&lt; endl; return 0;}","link":"/2022/03/08/hello-world/"}],"tags":[],"categories":[]}
